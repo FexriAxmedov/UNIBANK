@@ -56,3 +56,9 @@ $(this).text('RUS');
   })
 
 
+  const swiper = new Swiper('.swiper', {
+    loop: true,
+    speed:900,
+    autoplay:true
+ 
+  });
