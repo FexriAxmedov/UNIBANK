@@ -578,3 +578,29 @@ border-radius: 32px;
   padding-top: 60px;
   padding-bottom: 70px;
 }
+.container--1200{
+  width: 1200px;
+  margin: 0 auto;
+  height: 600px;
+  background-color: rgba(245, 245, 245, 0.452);
+  border-radius: 8px;
+}
+.valyuta{
+  position: relative;
+  margin-top: 40px;
+}
+.basliq h2{
+  font-family: "Inter Tight", sans-serif, "Mukta", sans-serif;
+font-size: 28px;
+letter-spacing: 2px;
+font-weight: 900;
+color: #ff6400;
+position: absolute;
+left: 80px;
+top: 40px;
+}
+.basliq{
+  position: relative;
+}
+
+
