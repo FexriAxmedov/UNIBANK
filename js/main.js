@@ -1,5 +1,5 @@
 $(document).ready(function(){
-
+  $('.const').removeClass('notopenedsearch');
     $("#mod").click(function(){
       $('body').toggleClass('dark');
 
@@ -61,3 +61,12 @@ $(this).text('RUS');
     speed:900,
     autoplay:true,
   });
+
+   
+$('.searchbar').click(function(){
+  $('.const').toggleClass('notopenedsearch');
+});
+
+$('.closebtn').click(function(){
+$('.const').removeClass('notopenedsearch');
+})
