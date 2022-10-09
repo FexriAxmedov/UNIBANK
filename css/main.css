@@ -802,7 +802,7 @@ font-weight: bolder;
   margin: 0 auto;
 }
 .xeber1{
-  background-color: whitesmoke;
+  background-color: rgba(245, 245, 245, 0.361);
   width: 320px;
   height: 275px;
   border-radius: 8px;
@@ -844,4 +844,115 @@ padding-top: 30px;
   justify-content: space-between;
   position: relative;
   margin-top: 32px;
+}
+.container--butunxeberler{
+  width: 1200px;
+  margin: 0 auto;
+}
+.xeberlerbutton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: 22px;
+}
+.xeberlerbutton a{
+  text-decoration: none;
+  color: white;
+  background-color: #ff6400;
+  border-radius: 42px;
+  padding: 16px 32px;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+}
+.container--xidmet{
+  width: 1200px;
+  margin:0 auto ;
+}
+.saxlayan{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-top: 20px;
+}
+.sebeke{
+  width: 680px;
+  height: 340px;
+  background-color: rgba(245, 245, 245, 0.472);
+  border-radius: 8px;
+}
+.callcenter{
+  width: 480px;
+  height: 340px;
+  background-color: rgba(245, 245, 245, 0.472);
+  border-radius: 8px;
+}
+.sebeke{
+  display: flex;
+}
+.sebekeimage{
+  position: relative;
+}
+.sebekeimage img{
+  position: absolute;
+  bottom: 0;
+  left: 48px;
+}
+.sebekeyazilar{
+  display: block;
+  padding-left: 40px;
+}
+.sebekeyazilar h2{
+  padding-top: 40px;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+color: #ff6400;
+font-weight: bolder;
+letter-spacing: 2px;
+}
+.sebekeyazilar p{
+  color: black;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-size: 14px;
+padding-top: 32px;
+padding-bottom: 62px;
+}
+.sebekeyazilar a{
+  text-decoration: none;
+  color: white;
+  background-color: #ff6400;
+  border-radius: 32px;
+  padding: 16px 32px;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+}
+.callcenterimage{
+  position: relative;
+}
+.callcenterimage img{
+  position: absolute;
+  top: -248px;
+  left: 34px;
+  z-index: -20;
+}
+.callcenteryazilar{
+  display: block;
+  padding-left: 22px;
+}
+.callcenteryazilar h2{
+  padding-top: 30px;
+  color: #ff6400;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-weight: bolder;
+}
+.callcenteryazilar p{
+  padding-top: 20px;
+  padding-bottom: 60px;
+  color: black;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+}
+.callcenteryazilar a{
+  text-decoration: none;
+  color: white;
+  background-color: #ff6400;
+  border-radius: 32px;
+  padding: 16px 32px;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
 }
