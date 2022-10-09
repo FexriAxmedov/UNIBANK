@@ -797,3 +797,51 @@ font-weight: bolder;
   color: black;
   font-weight: bolder;
 }
+.container--xeberler{
+  width: 1200px;
+  margin: 0 auto;
+}
+.xeber1{
+  background-color: whitesmoke;
+  width: 320px;
+  height: 275px;
+  border-radius: 8px;
+}
+.xeber1:hover{
+  background-color: #ff6400;
+  transition: 0.4s;
+}
+.xeber1 a{
+text-decoration: none;
+  display: block;
+}
+.xeber1 #xeberbas{
+  color: #ff6400;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-weight: bolder;
+padding-left: 22px;
+padding-top: 30px;
+}
+.xeber1 #xeberesas{
+  color: black;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-size: 12px;
+padding-left: 18px;
+padding-top:12px ;
+}
+.xeber1 #xeberson{
+  color: rgba(0, 0, 0, 0.658);
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-size:12px ;
+padding-left: 22px;
+padding-top: 30px;
+}
+.xeber1:hover a{
+  color: white !important;
+}
+.xeberler{
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  margin-top: 32px;
+}

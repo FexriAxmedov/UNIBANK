@@ -70,3 +70,5 @@ $('.searchbar').click(function(){
 $('.closebtn').click(function(){
 $('.const').removeClass('notopenedsearch');
 })
+
+
