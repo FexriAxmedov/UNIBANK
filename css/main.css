@@ -956,3 +956,213 @@ font-weight: bolder;
   padding: 16px 32px;
   font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
 }
+.container--footertop{
+  width: 1200px;
+  margin: 0 auto;
+}
+.birinci{
+  display: block;
+
+}
+.birinci ul{
+  list-style: none;
+}
+.birinci ul li{
+  padding: 10px 0;
+}
+.birinci ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.birinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+.ikinci{
+  display: block;
+}
+.ikinci ul{
+  list-style: none;
+}
+.ikinci ul li{
+  padding: 10px 0;
+}
+.ikinci ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.ikinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+.ucuncu{
+  display: block;
+}
+.ucuncu ul{
+  list-style: none;
+}
+.ucuncu ul li{
+  padding: 10px 0;
+}
+.ucuncu ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.ucuncu #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.dorduncu{
+  display: block;
+}
+.dorduncu ul{
+  list-style: none;
+}
+.dorduncu ul li{
+  padding: 10px 0;
+}
+.dorduncu ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.dorduncu #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+.besinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.besinci{
+  display: block;
+}
+.besinci ul{
+  list-style: none;
+}
+.besinci ul li{
+  padding: 10px 0;
+}
+.besinci ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.besinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.altinci{
+  display: block;
+}
+.altinci ul{
+  list-style: none;
+}
+.altinci ul li{
+  padding: 10px 0;
+}
+.altinci ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.altinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+.yeddinci{
+  display: block;
+}
+.yeddinci ul{
+  list-style: none;
+}
+.yeddinci ul li{
+  padding: 10px 0;
+}
+.yeddinci ul li a{
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  text-decoration: none;
+  color: black;
+  font-size: 12px;
+}
+.yeddinci #nese{
+  font-size: 18px;
+  font-weight: bolder;
+}
+.footertop--saxlayan{
+  display: flex;
+  position: relative;
+  margin-top: 100px;
+  justify-content: space-around;
+}
+.container--footer{
+  width: 1200px;
+  margin: 0 auto;
+}
+.footerHamisi{
+  display: block;
+  position: relative;
+  margin-top: 70px;
+}
+.footer1 i{
+  background-color: gray;
+  padding: 8px 8px;
+  border-radius:18px ;
+  color: white;
+}
+.footer1 #apple{
+  background-color: #ff6400;
+}
+.footer1 #android{
+  background-color: #ff6400;
+}
+.footer2{
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.061);
+  position: relative;
+  margin-top: 20px;
+  border-radius: 2px;
+}
+.footer3{
+  position: relative;
+  margin-top: 22px;
+  display: flex;
+justify-content: space-between
+}
+.footer3-left{
+  display: block;
+  font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+  font-size: 12px;
+}
+#leftp1{
+  color: black;
+  font-weight: bold;
+  padding-bottom:8px ;
+}
+#leftp2{
+  color: rgba(0, 0, 0, 0.547);
+}
+.footer3-right img{
+  width: 62px;
+}
+.footer3-right{
+  width: 340px;
+  display: flex;
+  justify-content: space-between;
+}
+.mirt{
+  width: 20px;
+  height: 80px;
+}
