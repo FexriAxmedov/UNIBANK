@@ -565,4 +565,10 @@ font-size: 12px;
     width: 20px;
     height: 80px;
   }
+  .basyazi{
+    font-family:"Inter Tight", sans-serif, "Mukta", sans-serif ;
+font-weight: bolder;
+color: #ff6400;
+font-size: 22px;
+  }
   
